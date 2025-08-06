@@ -39,8 +39,8 @@ Basic_Network_Sniffer/
 
 | Description                                      | Screenshot                                              |
 |--------------------------------------------------|---------------------------------------------------------|
-| Selecting network interface and starting capture | ![Interface Selection](screenshots/sniffer-running.png) |
-| Real-time captured packet data                   | ![Captured Packets](screenshots/packets-output.png)     |
+| Selecting network interface and starting capture | ![Interface Selection](Screenshots/sniffer-running.png) |
+| Real-time captured packet data                   | ![Captured Packets](Screenshots/packets-output.png)     |
 
 
 ## Requirements
